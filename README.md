@@ -2,12 +2,12 @@
 List of Site to find public apis
 
 ## Table of Contents
-* [Recommended Place](#recommended)
+* [Recommended Site](#recommended)
 * [Other](#other)
 
-## Place List
+## Site List
 
-### Recommended Place
+### Recommended Site
 
 |Name       |URL  |
 | ----------|:---:|
