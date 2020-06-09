@@ -1,5 +1,5 @@
-# place-to-find-public-apis
-Lis of Place to find public apis
+# site-to-find-public-apis
+List of Site to find public apis
 
 ## Table of Contents
 * [Recommended Place](#recommended)
